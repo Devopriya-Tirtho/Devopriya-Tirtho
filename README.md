@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Devopriya-Tirtho
-- 👀 I am passionate in research, software development, and database management.
-- 🌱 I’m currently learning machine learning.
+- 👀 I am passionate in machine learning, and HCI.
+- 👀 I am a research enthusiast
+- 🌱 I’m currently learning deep neural networks and NLP.
 - 💞️ I’m looking to collaborate on research in computer science.
 - 📫 How to reach me: https://www.linkedin.com/in/devopriyatirtho/
 
